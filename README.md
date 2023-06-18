@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-[![Gon's github stats](https://github-readme-stats.vercel.app/api?username=krdn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Gon's github stats](https://github-readme-stats.vercel.app/api?username=krdn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 # 아래 mkdown을 참조해서, 자신의 github에 사용하자
