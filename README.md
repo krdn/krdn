@@ -1,133 +1,74 @@
-<!-- Header -->
-<div align="center">
+<p align="center">
+  <img src="assets/ai-systems-banner.svg" width="100%" alt="Gon Kim — AI Systems Engineer. LLM 인프라, 에이전트 워크플로, AI 응용 시스템." />
+</p>
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gon's%20Dev%20Space&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
+<p align="center">
+  <strong>모델을 연결하고, 에이전트의 작업을 설계하고, 결과를 검증합니다.</strong><br />
+  LLM 인프라부터 개발 자동화까지, AI를 실제 소프트웨어로 만드는 Gon Kim입니다.
+</p>
 
-  <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=.NET+Backend+Developer+%F0%9F%92%BB;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+Smart+Solutions+with+n8n+%26+Claude;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
-  <br/>
-
-  <!-- Social Badges -->
-  [![GitHub followers](https://img.shields.io/github/followers/krdn?style=for-the-badge&logo=github&labelColor=1a1b27&color=6AD3F7)](https://github.com/krdn)
-  [![GitHub Stars](https://img.shields.io/github/stars/krdn?style=for-the-badge&logo=github&labelColor=1a1b27&color=c792ea)](https://github.com/krdn)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```typescript
-const gon = {
-    role: "Backend Developer & AI Automation Engineer",
-    location: "South Korea 🇰🇷",
-    currentFocus: ["AI Integration", "Workflow Automation", "Clean Architecture"],
-    passion: "복잡한 문제를 우아한 코드로 해결하는 것",
-
-    dailyRoutine: () => {
-        return ["☕ Coffee", "💻 Code", "🤖 Automate", "📚 Learn", "🔁 Repeat"];
-    }
-};
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend & Framework
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Frontend & Database
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:-------:|:------------|:----:|
-| 🤖 **[gonsai2](https://github.com/krdn/gonsai2)** | AI-Optimized n8n Integration Platform | `n8n` `MongoDB` `AI` |
-| 🔧 **[krdn-claude](https://github.com/krdn/krdn-claude)** | Claude Code 커스터마이징 & 프레임워크 | `Claude` `Automation` |
-| 📚 **[claude-code-workflow](https://github.com/krdn/claude-code-workflow)** | Claude Code 생산성 워크플로 연구 | `AI` `Productivity` |
-| ✈️ **[TravelDiscountSystem](https://github.com/krdn/TravelDiscountSystem)** | 여행상품 할인/쿠폰 관리 시스템 | `.NET` `Clean Architecture` |
-| 🔌 **[mcp-solution](https://github.com/krdn/mcp-solution)** | MCP를 활용한 솔루션 | `MCP` `Integration` |
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=krdn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&icon_color=c792ea&text_color=a9b1d6" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krdn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&text_color=a9b1d6&langs_count=8" height="170"/>
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krdn&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6AD3F7&ring=c792ea&fire=ff9e64&currStreakLabel=6AD3F7" />
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krdn&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6AD3F7&line=c792ea&point=ff9e64" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🎯 Current Focus
-
-```
-🔭 Working on: AI 자동화 워크플로 고도화
-🌱 Learning: LLM Integration, MCP Protocol
-🤝 Open to: AI/자동화 프로젝트 협업
-💡 Exploring: Claude Code로 개발 생산성 극대화
-```
-
-<br/>
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-krdn-181717?style=for-the-badge&logo=github)](https://github.com/krdn)
-
-</div>
+<p align="center">
+  <a href="https://github.com/krdn/llm-gateway">LLM Gateway</a> ·
+  <a href="https://github.com/krdn/gon-github-workflow">Agent Workflow</a> ·
+  <a href="https://github.com/krdn?tab=repositories">All Repositories</a>
+</p>
 
 ---
 
-<div align="center">
+### 집중하는 영역
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+| LLM Infrastructure | Agent Engineering | Applied AI |
+| :--- | :--- | :--- |
+| 여러 모델을 하나의 인터페이스로 연결 | 계획·구현·검증·인수인계의 흐름 설계 | 도메인 데이터와 모델을 연결하는 분석 도구 |
+| 구조화 출력, 재시도, 토큰 사용량 관리 | Claude·Codex 작업을 GitHub 기록으로 연결 | 스키마 검증과 근거를 갖춘 결과 구성 |
 
-  <img src="https://komarev.com/ghpvc/?username=krdn&style=flat-square&color=6AD3F7" alt="Profile Views"/>
+### 대표 프로젝트
 
-  **"Code Smart, Automate Everything"** 🚀
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/krdn/llm-gateway">01 / LLM Gateway</a></h3>
+<p><strong>여러 모델, 하나의 인터페이스.</strong></p>
+<p>Anthropic·OpenAI·Gemini 등 여러 제공자를 연결하는 TypeScript 라이브러리. 구조화 출력, 재시도, 취소, 토큰 집계를 공통 계층에서 다룹니다.</p>
+<p><code>TypeScript</code> <code>Zod</code> <code>Multi-provider</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/krdn/gon-github-workflow">02 / GitHub Workflow</a></h3>
+<p><strong>에이전트 작업을 추적 가능한 개발 과정으로.</strong></p>
+<p>Claude·Codex의 계획, 디버깅, 검증, 인수인계를 GitHub 기록으로 연결하는 개인 개발 워크플로 도구입니다.</p>
+<p><code>Claude</code> <code>Codex</code> <code>GitHub</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/krdn/gon-development-os">03 / Development OS</a></h3>
+<p><strong>목표에서 검증·전달까지 이어지는 개발 표준.</strong></p>
+<p>앱·웹서비스·스킬·에이전트 프로젝트를 위한 매뉴얼과 재사용 스킬, 생성 도구, 검증 기록을 함께 관리합니다.</p>
+<p><code>Agent Skills</code> <code>Workflow Design</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/krdn/tickerlens">04 / TickerLens</a></h3>
+<p><strong>하나의 질문을 여러 분석 관점으로.</strong></p>
+<p>주식 데이터를 가치·성장·퀀트·옵션의 네 관점과 세 시간축으로 분석하는 LLM 응용 라이브러리. 결과를 Zod 스키마로 검증합니다.</p>
+<p><code>Applied LLM</code> <code>Structured Output</code></p>
+</td>
+</tr>
+</table>
 
-</div>
+### 일하는 방식
+
+- **명확한 계약** — 입력·출력 스키마와 책임 범위를 먼저 정합니다.
+- **검증 가능한 결과** — 구현 완료, 테스트 통과, 실제 동작을 구분합니다.
+- **이어갈 수 있는 작업** — 결정과 근거를 저장소에 남겨 다음 작업으로 연결합니다.
+
+### 기술 기반
+
+**AI & Agents** · Claude · Codex · OpenAI · Gemini · MCP · n8n  
+**Engineering** · TypeScript · Python · C# / .NET · Zod  
+**Delivery** · GitHub Actions · Docker · Linux
+
+---
+
+<p align="center">
+  <sub><strong>Build with intent. Verify with evidence.</strong><br />Seoul, South Korea · <a href="https://github.com/krdn">github.com/krdn</a></sub>
+</p>
